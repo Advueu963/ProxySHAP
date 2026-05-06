@@ -1,0 +1,94 @@
+{
+    "ResNet18w14Superpixel": {
+        "game_config_name": "shapiq-benchmark/configurations_exhaustive/ResNet18w14Superpixel.json",
+        "n_games": 30,
+        "config_id": 1,
+        "approximation_methods": [
+            "ProxySHAP (XGBoost)",
+            "ProxySHAP (XGBoost, MSR)",
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)",
+            "ProxySHAP* (XGBoost, MSR)",
+            "ProxySHAP* (XGBoost)",
+            "SHAPIQ",
+            "SVARMIQ",
+            "KernelSHAPIQ",
+            "PermutationSamplingSII",
+            "ProxySPEX",
+            "ProxySPEX (XGBoost)",
+            "ProxySPEX (XGBoost, NoRefinement)",
+            "ProxySPEX (XGBoost, NoTruncation, NoRefinement)"
+        ],
+        "index": "SII",
+        "order": 3
+    },
+    "ViT3by3Patches": {
+        "game_config_name": "shapiq-benchmark/configurations_exhaustive/ViT3by3Patches.json",
+        "n_games": 30,
+        "config_id": 1,
+        "approximation_methods": [
+            "ProxySHAP (XGBoost)",
+            "ProxySHAP (XGBoost, MSR)",
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)",
+            "ProxySHAP* (XGBoost, MSR)",
+            "ProxySHAP* (XGBoost)",
+            "SHAPIQ",
+            "SVARMIQ",
+            "KernelSHAPIQ",
+            "PermutationSamplingSII",
+            "ProxySPEX",
+            "ProxySPEX (XGBoost)",
+            "ProxySPEX (XGBoost, NoRefinement)",
+            "ProxySPEX (XGBoost, NoTruncation, NoRefinement)"
+        ],
+        "index": "SII",
+        "order": 3
+    },
+    "ViT4by4Patches": {
+        "game_config_name": "shapiq-benchmark/configurations_exhaustive/ViT4by4Patches.json",
+        "n_games": 30,
+        "config_id": 1,
+        "approximation_methods": [
+            "ProxySHAP (XGBoost)",
+            "ProxySHAP (XGBoost, MSR)",
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)",
+            "ProxySHAP* (XGBoost, MSR)",
+            "ProxySHAP* (XGBoost)",
+            "SHAPIQ",
+            "SVARMIQ",
+            "KernelSHAPIQ",
+            "PermutationSamplingSII",
+            "ProxySPEX",
+            "ProxySPEX (XGBoost)",
+            "ProxySPEX (XGBoost, NoRefinement)",
+            "ProxySPEX (XGBoost, NoTruncation, NoRefinement)"
+        ],
+        "index": "SII",
+        "order": 3
+    },
+    "SentimentAnalysisLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_exhaustive/SentimentAnalysisLocalXAI.json",
+        "n_games": 30,
+        "config_id": 1,
+        "approximation_methods": [
+            "ProxySHAP (XGBoost)",
+            "ProxySHAP (XGBoost, MSR)",
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)",
+            "ProxySHAP* (XGBoost, MSR)",
+            "ProxySHAP* (XGBoost)",
+            "SHAPIQ",
+            "SVARMIQ",
+            "KernelSHAPIQ",
+            "PermutationSamplingSII",
+            "ProxySPEX",
+            "ProxySPEX (XGBoost)",
+            "ProxySPEX (XGBoost, NoRefinement)",
+            "ProxySPEX (XGBoost, NoTruncation, NoRefinement)"
+        ],
+        "index": "SII",
+        "order": 3
+    }
+}

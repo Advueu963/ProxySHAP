@@ -1,0 +1,6 @@
+game_identifier,value_model,sampling_weight,residual_approximator,configuration,count,median,mean,std
+BikeSharingLocalXAI_1,dt,default,kernelshapiq,dt / default / kernelshapiq,1,7.293492156175106e-26,7.293492156175106e-26,
+CaliforniaHousingLocalXAI_1,rf,leverage,kernelshapiq,"rf / leverage / kernelshapiq (depth=10, estimators=50)",2,0.008496027077551021,0.008496027077551021,0.012001703313285565
+CommunitiesAndCrimeLocalXAI_1,xgb,default,shapiq,"xgb / default / shapiq (depth=10, estimators=100)",1,7.293079046285988,7.293079046285988,
+Corrgroups60LocalXAI_1,xgb,default,kernelshapiq,"xgb / default / kernelshapiq (depth=20, estimators=200)",30,0.0010484191194902,0.0010711140442916467,0.00019231732548877066
+ViT4by4Patches_1,rf,leverage,shapiq,"rf / leverage / shapiq (depth=20, estimators=200)",1,7.649367924351483e-06,7.649367924351483e-06,

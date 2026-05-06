@@ -1,0 +1,21 @@
+game_type,game_identifier,id_explain,value_model,sampling_weight,residual_approximator,MSE,max_depth,n_estimators,configuration
+exhaustive,BikeSharingLocalXAI_1,0,dt,default,shapiq,7.293492156175106e-26,,,dt / default / shapiq
+exhaustive,BikeSharingLocalXAI_1,0,lightgbm,default,shapiq,0.0027503950637797,,200.0,lightgbm / default / shapiq (estimators=200)
+exhaustive,BikeSharingLocalXAI_1,0,rf,leverage,kernelshapiq,3.0711141824324574e-05,,200.0,rf / leverage / kernelshapiq (estimators=200)
+exhaustive,BikeSharingLocalXAI_1,0,xgb,leverage,kernelshapiq,5.6893896044236447e-11,10.0,100.0,"xgb / leverage / kernelshapiq (depth=10, estimators=100)"
+exhaustive,CaliforniaHousingLocalXAI_1,0,dt,leverage,kernelshapiq,1.1851851851856571e-08,,,dt / leverage / kernelshapiq
+exhaustive,CaliforniaHousingLocalXAI_1,0,lightgbm,leverage,kernelshapiq,0.000229518333564,,50.0,lightgbm / leverage / kernelshapiq (estimators=50)
+exhaustive,CaliforniaHousingLocalXAI_1,0,rf,leverage,kernelshapiq,9.541278937743418e-06,,50.0,rf / leverage / kernelshapiq (estimators=50)
+exhaustive,CaliforniaHousingLocalXAI_1,0,xgb,leverage,kernelshapiq,1.0321822526345486e-05,10.0,50.0,"xgb / leverage / kernelshapiq (depth=10, estimators=50)"
+pathdependent,CommunitiesAndCrimeLocalXAI_1,0,dt,default,shapiq,7.784110483588235,20.0,,dt / default / shapiq (depth=20)
+pathdependent,CommunitiesAndCrimeLocalXAI_1,0,lightgbm,default,shapiq,9.592556818505455,,200.0,lightgbm / default / shapiq (estimators=200)
+pathdependent,CommunitiesAndCrimeLocalXAI_1,0,rf,leverage,shapiq,8.784099694875405,,100.0,rf / leverage / shapiq (estimators=100)
+pathdependent,CommunitiesAndCrimeLocalXAI_1,0,xgb,default,shapiq,7.293079046285988,10.0,100.0,"xgb / default / shapiq (depth=10, estimators=100)"
+pathdependent,Corrgroups60LocalXAI_1,3,dt,default,shapiq,0.0008532059002475,20.0,,dt / default / shapiq (depth=20)
+pathdependent,Corrgroups60LocalXAI_1,3,lightgbm,default,shapiq,0.0009314880650189,10.0,200.0,"lightgbm / default / shapiq (depth=10, estimators=200)"
+pathdependent,Corrgroups60LocalXAI_1,3,rf,default,kernelshapiq,0.0008668815409942,20.0,50.0,"rf / default / kernelshapiq (depth=20, estimators=50)"
+pathdependent,Corrgroups60LocalXAI_1,3,xgb,default,shapiq,0.0007998033035732,20.0,200.0,"xgb / default / shapiq (depth=20, estimators=200)"
+exhaustive,ViT4by4Patches_1,0,dt,leverage,shapiq,9.984969663960649e-06,10.0,,dt / leverage / shapiq (depth=10)
+exhaustive,ViT4by4Patches_1,0,lightgbm,default,shapiq,4.609628969563352e-05,10.0,50.0,"lightgbm / default / shapiq (depth=10, estimators=50)"
+exhaustive,ViT4by4Patches_1,0,rf,leverage,shapiq,7.649367924351483e-06,,200.0,rf / leverage / shapiq (estimators=200)
+exhaustive,ViT4by4Patches_1,0,xgb,leverage,kernelshapiq,1.0647637305096943e-05,20.0,50.0,"xgb / leverage / kernelshapiq (depth=20, estimators=50)"

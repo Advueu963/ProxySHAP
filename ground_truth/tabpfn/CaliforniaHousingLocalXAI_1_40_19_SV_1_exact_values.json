@@ -1,0 +1,31 @@
+{
+  "object_name": "InteractionValues",
+  "data_type": "interaction_values",
+  "version": "1.0.0.dev0",
+  "created_from": null,
+  "description": null,
+  "parameters": {
+    "kwargs": {}
+  },
+  "timestamp": "2026-01-14T15:18:41.480110+00:00Z",
+  "metadata": {
+    "n_players": 8,
+    "index": "SV",
+    "max_order": 1,
+    "min_order": 0,
+    "estimated": false,
+    "estimation_budget": null,
+    "baseline_value": 0.0
+  },
+  "data": {
+    "Empty": 0.0,
+    "0": 0.5499699118591489,
+    "1": 0.11006941114153179,
+    "2": 0.44872471576645245,
+    "3": -0.032673820427485845,
+    "4": 0.019461601688748303,
+    "5": 0.25271449429648263,
+    "6": 0.06365446788924087,
+    "7": 0.3705358542147137
+  }
+}

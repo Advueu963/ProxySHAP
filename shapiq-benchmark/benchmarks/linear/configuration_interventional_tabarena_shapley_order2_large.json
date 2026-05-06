@@ -1,0 +1,68 @@
+{
+    "TabArenaApsFailureLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaApsFailureLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaBioresponseLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaBioresponseLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaHivaAgnosticLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaHivaAgnosticLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaKddcup09LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaKddcup09LocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaMicLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaMicLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaQsarTid11LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaQsarTid11LocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    }
+}

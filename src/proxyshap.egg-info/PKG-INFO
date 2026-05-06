@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: proxyshap
+Version: 0.1.0
+Summary: Big stuff gone happen
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: cython>=3.1.6
+Requires-Dist: datasets>=4.4.2
+Requires-Dist: graphviz>=0.21
+Requires-Dist: ipykernel>=7.1.0
+Requires-Dist: jupyter
+Requires-Dist: lightgbm>=4.6.0
+Requires-Dist: matplotlib>=3.10.7
+Requires-Dist: numpy>=2.2.4
+Requires-Dist: opencv-python>=4.13.0.92
+Requires-Dist: openpyxl>=3.1.5
+Requires-Dist: pytest>=8.4.2
+Requires-Dist: scienceplots>=2.2.0
+Requires-Dist: scikit-image>=0.26.0
+Requires-Dist: scikit-learn>=1.7.2
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: shap>=0.49.1
+Requires-Dist: shapiq-benchmark
+Requires-Dist: smac>=2.3.1
+Requires-Dist: statsmodels>=0.14.6
+Requires-Dist: swig>=4.4.1
+Requires-Dist: tabpfn>=6.0.3
+Requires-Dist: torch>=2.9.0
+Requires-Dist: torch-geometric>=2.7.0
+Requires-Dist: torchvision>=0.24.1
+Requires-Dist: transformers>=4.57.1
+Requires-Dist: xgboost>=3.1.1
+
+# How to install
+  1. `uv sync`
+  2. `uv pip install -e ./pltreeshap`

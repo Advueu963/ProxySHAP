@@ -1,0 +1,178 @@
+{
+    "AdultCensusLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/AdultCensusLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "BikeSharingLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/BikeSharingLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "BreastCancerLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/BreastCancerLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "CommunitiesAndCrimeLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/CommunitiesAndCrimeLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "Corrgroups60LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/Corrgroups60LocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "ForestFiresLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/ForestFiresLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "HepatitisLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/HepatitisLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "IndependentLinear60LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/IndependentLinear60LocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "IonosphereLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/IonosphereLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "MushroomLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/MushroomLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "NHANESILocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/NHANESILocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "NurseryLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/NurseryLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "RealEstateLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/RealEstateLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "SoybeanLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/SoybeanLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "ThyroidLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/ThyroidLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    },
+    "ZooLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/ZooLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SV",
+        "order": 1
+    }
+}

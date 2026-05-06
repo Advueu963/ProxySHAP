@@ -1,0 +1,277 @@
+{
+    "TabArenaAirlineSatisfactionLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaAirlineSatisfactionLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaBankCustomerChurnLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaBankCustomerChurnLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaBankMarketingLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaBankMarketingLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaChurnLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaChurnLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaConcreteStrengthLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaConcreteStrengthLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaCouponRecommendationLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaCouponRecommendationLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaCreditCardDefaultLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaCreditCardDefaultLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaCreditGLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaCreditGLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaDiabetesLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaDiabetesLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaDiamondsLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaDiamondsLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaEcommerceShippingLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaEcommerceShippingLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaFoodDeliveryLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaFoodDeliveryLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaGiveMeCreditLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaGiveMeCreditLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaGoodCustomerLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaGoodCustomerLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaHazelnutLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaHazelnutLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaHelocLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaHelocLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaHrAnalyticsLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaHrAnalyticsLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaJm1LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaJm1LocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaMarketingCampaignLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaMarketingCampaignLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaMiamiHousingLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaMiamiHousingLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaOnlineShoppersLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaOnlineShoppersLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaSdss17LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaSdss17LocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaSeismicBumpsLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaSeismicBumpsLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaWebsitePhishingLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaWebsitePhishingLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaWineQualityLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaWineQualityLocalXAI.json",
+        "n_games": 30,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySHAP (Linear)",
+            "ProxySHAP (Linear, MSR)"
+        ],
+        "index": "SII",
+        "order": 2
+    }
+}

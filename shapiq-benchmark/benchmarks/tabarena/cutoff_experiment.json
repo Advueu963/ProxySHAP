@@ -1,0 +1,34 @@
+{
+    "TabArenaHelocLocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaHelocLocalXAI.json",
+        "n_games": 5,
+        "config_id": 3,
+        "approximation_methods": [
+
+            "ProxySPEX9999 (XGBoost)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "Corrgroups60LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/Corrgroups60LocalXAI.json",
+        "n_games": 5,
+        "config_id": 3,
+        "approximation_methods": [
+
+            "ProxySPEX9999 (XGBoost)"
+        ],
+        "index": "SII",
+        "order": 2
+    },
+    "TabArenaCoil2000LocalXAI": {
+        "game_config_name": "shapiq-benchmark/configurations_interventional/TabArenaCoil2000LocalXAI.json",
+        "n_games": 5,
+        "config_id": 3,
+        "approximation_methods": [
+            "ProxySPEX9999 (XGBoost)"
+        ],
+        "index": "SII",
+        "order": 2
+    }
+}
